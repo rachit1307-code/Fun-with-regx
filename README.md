@@ -1,5 +1,5 @@
 # Fun_with_regx
-Maximum string detection
+## Maximum string detection
 
 Summary: 
 The script regex.py utilises the re (regular expression) python module for matching and searching
